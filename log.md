@@ -1,20 +1,6 @@
-# 100 Days Of Code - Log
-
-#### Use for daily template ### 
-## Day 1: 
-
-**Today's Progress**:
-
-**Thoughts**: 
-
-**Link(s) to work**: ####
 
 
-
-
-
-
-### Day 0: 
+## Day 0: 
 **Today's Progress**: Forked this repositorty and read the rules thouroghly and thpught about projects
 **Thoughts:**  I was first white boarding ides to showcase and prove my dailey work. As I was connecting to my repository I saw Siraj's repositorys and of course went with the flow (pun intended)
 
