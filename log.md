@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
-#### Use for daily template ### Day 1: 
+
+#### Use for daily template ### 
+##Day 1: 
 
 **Today's Progress**:
 
