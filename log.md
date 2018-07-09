@@ -16,4 +16,7 @@
 **Link to work:** https://github.com/HvyD/Kaggle---IBM-Analytics/blob/master/IBM%20HR%20Analytics%20Project.ipynb
 
 
-
+## Day 2: 
+**Today's Progress**: I worked on the Kaggle IBM HR proect. I used gradient boosting classifier which got me in the high ninety percentile on both the training and test sets. Better results than yesterdays overfitting using a decision tree. I also played around with Seaborn with Matplotlib to view my model results better.
+**Thoughts:**  After watching Siraj's new recent video on Backproppagation I had gradient decent stuck in my head, so I tried using a gradient technique for this project.
+**Link to work:** https://github.com/HvyD/Kaggle---IBM-Analytics
