@@ -22,3 +22,12 @@
 **Thoughts:**  After watching Siraj's new recent video on Backproppagation I had gradient decent stuck in my head, so I tried using a gradient technique for this project.
 
 **Link to work:** https://github.com/HvyD/Kaggle---IBM-Analytics
+
+
+## Day 3: 
+**Today's Progress**: Today was another productive day. I found a good ML dataset repostory and used a Breast Cancer Dataset to build and run a K-Nearest Nieghbor model For fun  I fitted and scored the dataset through a SVM, Random Forest and XGBoost models. I also figured out how to streamline my Exploratory Data Analysis with more logical approach to importing and assigning column labels.
+
+**Thoughts:**  I definetly like the UCI ML repository to practice on. I am still treading on the fundamentals for now to gain some inspiration to continue my Deep Learning and Artificial Intellegence work.
+
+
+**Link to work:** https://github.com/HvyD/UCI-Breast-Cancer-Detection-Dataset-Project
