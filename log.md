@@ -31,3 +31,14 @@
 
 
 **Link to work:** https://github.com/HvyD/UCI-Breast-Cancer-Detection-Dataset-Project
+
+
+
+## Day 4: 
+**Today's Progress**: Today I used Tensorflow to add a DQN model to my AI DOOM player agent that I had built a awhile back that had orignally only used a basic score based heuristics. 
+
+**Thoughts:**  Using Deep models and Reinforcement techniques really work great with retro games. Im wrapping my mind around more recent and advance applications. 
+
+**Link to work:** https://github.com/HvyD/Artificial-Intelligent-Doom-player
+
+
