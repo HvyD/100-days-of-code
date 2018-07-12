@@ -42,3 +42,10 @@
 **Link to work:** https://github.com/HvyD/Artificial-Intelligent-Doom-player
 
 
+
+## Day 5: 
+**Today's Progress**: Today I decided to build a RNN model without using any libraries only Numpy for the calculations. 
+
+**Thoughts:** I really was able to wrap my mind around the inner workings of a model and especially Forward and Back propagation. Tommororw I will build an LSTM to add to it and hopfully I will be pushing some Data through it the following day.
+
+**Link to work:** https://github.com/HvyD/RNN-LSTM-No-Libraries-
