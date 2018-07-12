@@ -49,3 +49,12 @@
 **Thoughts:** I really was able to wrap my mind around the inner workings of a model and especially Forward and Back propagation. Tommororw I will build an LSTM to add to it and hopfully I will be pushing some Data through it the following day.
 
 **Link to work:** https://github.com/HvyD/RNN-LSTM-No-Libraries-
+
+
+
+## Day 6: 
+**Today's Progress**: Today I continued to work on my RNN-LSTM Network by scratch by adding the LSTM Layer.
+
+**Thoughts**:  Im really grasping statistical thinking. Tommorrow I will try my network on some Sequential Data.
+
+**Link to work**: https://github.com/HvyD/RNN-LSTM-without-Libraries
