@@ -67,3 +67,12 @@
 
 **Link to work**: https://github.com/HvyD/RNN-LSTM-without-Libraries
 
+
+
+## Day 8: 
+**Today's Progress**: Today I went further.... I took a LSTM model using Keras and generated 'Metallica' style music.
+
+**Thoughts**:  I really like the ease of libraries like Keras and Tensorflow. 
+
+**Link to work**: https://github.com/HvyD/Generating-Metallica-style-music-with-a-LSTM
+
