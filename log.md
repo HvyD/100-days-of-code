@@ -53,8 +53,17 @@
 
 
 ## Day 6: 
-**Today's Progress**: Today I continued to work on my RNN-LSTM Network by scratch by adding the LSTM Layer.
+**Today's Progress**: Today I continued to work on my RNN-LSTM Network from scratch by adding the LSTM Layer.
 
 **Thoughts**:  Im really grasping statistical thinking. Tommorrow I will try my network on some Sequential Data.
 
 **Link to work**: https://github.com/HvyD/RNN-LSTM-without-Libraries
+
+
+## Day 7: 
+**Today's Progress**: Today I finished work on my RNN-LSTM Network from scratch by feeding 'The Goonies' movie script through it and got great predictions.
+
+**Thoughts**:  Today was the fun part of ML being able to actually run my Model. Building models from scratch is tedious and time consuming. Unless you need to tweak some deminsion I suggest using a library. 
+
+**Link to work**: https://github.com/HvyD/RNN-LSTM-without-Libraries
+
