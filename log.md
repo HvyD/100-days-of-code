@@ -76,3 +76,12 @@
 
 **Link to work**: https://github.com/HvyD/Generating-Metallica-style-music-with-a-LSTM
 
+
+
+## Day 9: 
+**Today's Progress**: Today I made a Movie Recommender System from Scratch to brush up on my math. I only used Numpy and Scipy for importation of the data files. On a less ML note I taught a youngster about Classes and Functions in Python using the Turtle library.
+
+**Thoughts**:  I really like the recommended movies. Its almost like my model is intuitive...
+
+**Link to work**: https://github.com/HvyD/Movie-Recommender-System
+
