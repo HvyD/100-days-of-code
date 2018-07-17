@@ -92,6 +92,6 @@
 
 **Thoughts**:  It took awhile to run my model. In the future I might think about not being lazy and running my model on a cloud GPU. I also want to find a cool dataset to run through it. This might be my Finally project at the end of the 100 days.
 
-**Link to work**: https://github.com/HvyD/Movie-Recommender-System
+**Link to work**: https://github.com/HvyD/Deep-Convolutional-GANs
 
 
