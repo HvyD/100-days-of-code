@@ -101,7 +101,6 @@
 **Thoughts**:  Good book so far. It really describes Machine Algorithms in basic terms. I am excited to try the examples later in the book.
 
 **Link to work**: http://shop.oreilly.com/product/0636920052289.do
-                  
                   https://github.com/HvyD/Deep-Convolutional-GANs
 
 
