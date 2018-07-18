@@ -100,7 +100,7 @@
 **Today's Progress**: Today I was mostly AFK, but that didn't stop me. I read some "Hands-On Machine Learning with SciKit-Learn & TensorFlow" an O'Reilly book. My DCGAN's model is still trainning, too.
 **Thoughts**:  Good book so far. It really describes Machine Algorithms in basic terms. I am excited to try the examples later in the book.
 
-**Link to work**: http://shop.oreilly.com/product/0636920052289.do, https://github.com/HvyD/Deep-Convolutional-GANs
+**Link to work**: http://shop.oreilly.com/product/0636920052289.do & https://github.com/HvyD/Deep-Convolutional-GANs
 
 
 
