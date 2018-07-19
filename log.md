@@ -112,6 +112,7 @@
 
 ## Day 13: 
 **Today's Progress**: Today I started the Metis Challenge of Naive-Bees from DataDriven on DataCamp
+
 **Thoughts**:  I like using PIL. Opening and manipulating photo files are easy..
 
 **Link to work**: https://github.com/HvyD/NAIVE-BEES
