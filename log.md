@@ -98,6 +98,7 @@
 
 ## Day 11: 
 **Today's Progress**: Today I was mostly AFK, but that didn't stop me. I read some "Hands-On Machine Learning with SciKit-Learn & TensorFlow" an O'Reilly book. My DCGAN's model is still trainning, too.
+
 **Thoughts**:  Good book so far. It really describes Machine Algorithms in basic terms. I am excited to try the examples later in the book.
 
 **Link to work**: http://shop.oreilly.com/product/0636920052289.do & https://github.com/HvyD/Deep-Convolutional-GANs
@@ -105,6 +106,7 @@
 
 ## Day 12: 
 **Today's Progress**: Today I finally finished trainning my DCGAN's. I also messed around with Keras and had fun with Keras's Datasets with some basic models.
+
 **Thoughts**:  I'm not happy with my DCGAN's results. I am leaning towards a hardware optimization problem not a Data or Model issue. Since I trainned it on my CPU rig. On a lighter note I really like the summary() print out that Keras does.
 
 **Link to work**: https://github.com/HvyD/Fun-with-Keras
