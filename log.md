@@ -118,3 +118,12 @@
 **Thoughts**:  I like using PIL. Opening and manipulating photo files are easy..
 
 **Link to work**: https://github.com/HvyD/NAIVE-BEES
+
+
+
+## Day 14: 
+**Today's Progress**: Today I made a self-driving car Detector system using YOLO. I also pondered about models I can throw at the Naive-Bees challenge.
+
+**Thoughts**: I like the YOLO algorithm over Haar, Cascading and Violo-Jones.
+
+**Link to work**: https://github.com/HvyD/DeepLearinig_Autonomous_Driving-Detector
