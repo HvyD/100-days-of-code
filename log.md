@@ -127,3 +127,12 @@
 **Thoughts**: I like the YOLO algorithm over Haar, Cascading and Violo-Jones.
 
 **Link to work**: https://github.com/HvyD/DeepLearinig_Autonomous_Driving-Detector
+
+
+
+## Day 15: 
+**Today's Progress**: Today I played with some more Computer Vision Technics and Algorithms. I Applied Haar using OpenCV and pytorch to an Object Detector and a Facial reconizer.
+
+**Thoughts**: OpenCV seems to be a pretty nice Computer Vision Library.
+
+**Link to work**: https://github.com/HvyD/Facial_Recon-Detection_using_Haar
