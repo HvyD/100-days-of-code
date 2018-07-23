@@ -146,3 +146,14 @@
 **Thoughts**: TensorFlow is my new go to library, lately... And the Google Developers must have to much time on their hands or need to share the drugs the are doing because these APi names are getting out there...
 
 **Link to work**: https://github.com/HvyD/Autonomous-Training-System
+
+
+
+
+
+## Day 16: 
+**Today's Progress**: Today I added Optical Flow to My Autonomous System. I used OpenCV to aquire the Video and Images from a cam for Neural Training.
+
+**Thoughts**: Using OpenCv was fun and easy.
+
+**Link to work**: https://github.com/HvyD/Autonomous-Training-System
