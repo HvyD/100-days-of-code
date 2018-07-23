@@ -149,9 +149,7 @@
 
 
 
-
-
-## Day 16: 
+## Day 17: 
 **Today's Progress**: Today I added Optical Flow to My Autonomous System. I used OpenCV to aquire the Video and Images from a cam for Neural Training.
 
 **Thoughts**: Using OpenCv was fun and easy.
