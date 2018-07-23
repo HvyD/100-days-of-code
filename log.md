@@ -136,3 +136,13 @@
 **Thoughts**: OpenCV seems to be a pretty nice Computer Vision Library.
 
 **Link to work**: https://github.com/HvyD/Facial_Recon-Detection_using_Haar
+
+
+
+
+## Day 16: 
+**Today's Progress**: Today I made a CNN for a Autonomus Training system with TensorFlow that using images from cams and Lidar. I also looked at "Parcey Mcparseface" for a future Book Automation reader and Summary writer project.
+
+**Thoughts**: TensorFlow is my new go to library, lately... And the Google Developers must have to much time on their hands or need to share the drugs the are doing because these APi names are getting out there...
+
+**Link to work**: https://github.com/HvyD/Autonomous-Training-System
