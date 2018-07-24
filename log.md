@@ -155,3 +155,13 @@
 **Thoughts**: Using OpenCv was fun and easy.
 
 **Link to work**: https://github.com/HvyD/Autonomous-Training-System
+
+
+
+
+## Day 18: 
+**Today's Progress**: Today I made a Security Log Analyzer with SciKit-Learn using a KNN model.
+
+**Thoughts**: Cyber Seccurity is Stimulating. Tomorrow I will finish my Malicious URL Detector
+
+**Link to work**: https://github.com/HvyD/Security_Log-Analyzer
