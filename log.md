@@ -165,3 +165,12 @@
 **Thoughts**: Cyber Seccurity is Stimulating. Tomorrow I will finish my Malicious URL Detector
 
 **Link to work**: https://github.com/HvyD/Security_Log-Analyzer
+
+
+
+## Day 18: 
+**Today's Progress**: Today I made a malicious URL detector using Keras with a Convolutional and LSTM model.
+
+**Thoughts**: I really enjoy going through data and preparing it. Its feels like Sherlock Holmes on an Adventure.
+
+**Link to work**: https://github.com/HvyD/Malicious-URL-Detector
