@@ -168,7 +168,7 @@
 
 
 
-## Day 18: 
+## Day 19: 
 **Today's Progress**: Today I made a malicious URL detector using Keras with a Convolutional and LSTM model.
 
 **Thoughts**: I really enjoy going through data and preparing it. Its feels like Sherlock Holmes on an Adventure.
