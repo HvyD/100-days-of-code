@@ -174,3 +174,13 @@
 **Thoughts**: I really enjoy going through data and preparing it. Its feels like Sherlock Holmes on an Adventure.
 
 **Link to work**: https://github.com/HvyD/Malicious-URL-Detector
+
+
+
+
+## Day 20: 
+**Today's Progress**: Today I continued to use Keras and I Built a LSTM model that predicts Currency prices.
+
+**Thoughts**: I like the ease of Tensorflows back end with Keras. I am Suprised how close my predictions are on the Bitcoin Dataset I used. Hec, I might want to gamble on some Crypto-Currency in the near future.
+
+**Link to work**: https://github.com/HvyD/Currency-Predictor
