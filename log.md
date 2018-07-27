@@ -184,3 +184,13 @@
 **Thoughts**: I like the ease of Tensorflows back end with Keras. I am Suprised how close my predictions are on the Bitcoin Dataset I used. Hec, I might want to gamble on some Crypto-Currency in the near future.
 
 **Link to work**: https://github.com/HvyD/Currency-Predictor
+
+
+
+
+## Day 21: 
+**Today's Progress**: Today I made a Convolutional Autoencoder for Medical Imaging.
+
+**Thoughts**: Really big Datasets. Definiely needs GPU used.
+
+**Link to work**: https://github.com/HvyD/Medical-Image-Reconstruction-with-Convolutional-AutoEncoders
