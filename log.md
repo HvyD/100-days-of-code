@@ -193,4 +193,14 @@
 
 **Thoughts**: Really big Datasets. Definiely needs GPU used.
 
-**Link to work**: https://github.com/HvyD/Medical-Image-Reconstruction-with-Convolutional-AutoEncoders
+**Link to work**: https://github.com/HvyD/Medical-Image-Reconstruction-with-Convolutional-AutoEncoder
+
+
+
+
+## Day 22: 
+**Today's Progress**: Today I made a Fake News Detector using NLP with a Naive Bayes and a Linear Model..
+
+**Thoughts**: I really like using S3 buckets for the data and AWS instances really made the Natural Language Pipeline flow without any freezes.
+
+**Link to work**: https://github.com/HvyD/Fake-News-Detector
