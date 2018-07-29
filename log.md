@@ -204,3 +204,12 @@
 **Thoughts**: I really like using S3 buckets for the data and AWS instances really made the Natural Language Pipeline flow without any freezes.
 
 **Link to work**: https://github.com/HvyD/Fake-News-Detector
+
+
+
+## Day 23: 
+**Today's Progress**: Today I worked on Kmeans Clustering and Linear Models for a MLB win predictor. Also dabbled with SQLite3 database to import the dataset.
+
+**Thoughts**:  Using SQLite3 was fun. 
+
+**Link to work**: https://github.com/HvyD/MLB-Team-Win-Predictor
