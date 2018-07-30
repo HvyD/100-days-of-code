@@ -219,6 +219,6 @@
 ## Day 24: 
 **Today's Progress**: Today I decided to make lemonade out of all the rejection letters I have recieved this past year. I scraped all my rejection emails into a .CSV file and after exploring and feature selection I ran it through some NLP techniques on it pulling different comparisons. Showcasing with plots and WordClouds.  Lastly I ran the dataset through a RandomForest and AdaBoost model's. All this to poke fun at all the companies who declined my services.
 
-**Thoughts**:  I found so new and cool functions with Pandas and had fun making WordClouds...
+**Thoughts**:  I found some new and cool functions with Pandas and had fun making WordClouds...
 
 **Link to work**: https://github.com/HvyD/Rejection-Letter-Analysis
