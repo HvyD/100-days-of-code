@@ -222,3 +222,12 @@
 **Thoughts**:  I found some new and cool functions with Pandas and had fun making WordClouds...
 
 **Link to work**: https://github.com/HvyD/Rejection-Letter-Analysis
+
+
+
+## Day 25: 
+**Today's Progress**: Today I made a prediction model with GridSearch and RandomForest on the Kaggel Opioid DataSet emphasizing on California.
+
+**Thoughts**:  I am really digging Pandas DataFrames. Still playing with WordCloud. Thinking about trying out Graphiz next.
+
+**Link to work**: https://github.com/HvyD/California-Opioid-Epidemic-Predictions
