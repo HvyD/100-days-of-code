@@ -231,3 +231,13 @@
 **Thoughts**:  I am really digging Pandas DataFrames. Still playing with WordCloud. Thinking about trying out Graphiz next.
 
 **Link to work**: https://github.com/HvyD/California-Opioid-Epidemic-Predictions
+
+
+
+
+## Day 26: 
+**Today's Progress**: Today during an interview I had a question I was asked of what would be the best way to detect street signs for a SDC. I went back and forth on my decision but really like YOLO. So when I got off the phone I made a YOLO Traffic Sign Detector to try and prove what I felt was a correct answer.
+
+**Thoughts**:  Dabbled with MXNET and thought it was cool...
+
+**Link to work**: https://github.com/HvyD/YOLO-Traffic-Sign-Detector
