@@ -245,8 +245,8 @@
 
 
 ## Day 27: 
-**Today's Progress**: Today I switch over and worked on some NLP making a Setinment Analysis on Hotel Reviews model since its that time of year that my family whats to vacation a little and mt computer needed a rest from doing Computer Vision..
+**Today's Progress**: Today I worked on some NLP making a Sentiment Analysis model on Hotel Reviews since its that time of year that my family wants to go vacationing and my computer needed a rest from doing Computer Vision.
 
-**Thoughts**:  Tried different models and was suprised that the best results game from a simple SVM.
+**Thoughts**:  Tried different models and was suprised that the best results came from a simple SVM.
 
 **Link to work**: https://github.com/HvyD/Sentiment-Analysis-on-Hotel-Reviiews
