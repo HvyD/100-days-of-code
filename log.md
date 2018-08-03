@@ -241,3 +241,12 @@
 **Thoughts**:  Dabbled with MXNET and thought it was cool...
 
 **Link to work**: https://github.com/HvyD/YOLO-Traffic-Sign-Detector
+
+
+
+## Day 27: 
+**Today's Progress**: Today I switch over and worked on some NLP making a Setinment Analysis on Hotel Reviews model since its that time of year that my family whats to vacation a little and mt computer needed a rest from doing Computer Vision..
+
+**Thoughts**:  Tried different models and was suprised that the best results game from a simple SVM.
+
+**Link to work**: https://github.com/HvyD/Sentiment-Analysis-on-Hotel-Reviiews
