@@ -250,3 +250,12 @@
 **Thoughts**:  Tried different models and was suprised that the best results came from a simple SVM.
 
 **Link to work**: https://github.com/HvyD/Sentiment-Analysis-on-Hotel-Reviiews
+
+
+
+## Day 28: 
+**Today's Progress**: Today I worked on some more ML in relation to my family travel plans by making an Airline Delay Predictor using GridSearch and RaandomForest Classifier with F1score.
+
+**Thoughts**:  Im thinking about a Overbooking and Cancelled flight predictor now.
+
+**Link to work**: https://github.com/HvyD/Delayed-Airliner-Predictor
