@@ -259,3 +259,12 @@
 **Thoughts**:  Im thinking about a Overbooking and Cancelled flight predictor now.
 
 **Link to work**: https://github.com/HvyD/Delayed-Airliner-Predictor
+
+
+
+## Day 29: 
+**Today's Progress**: Today I finally got around to finishing up a project I have been telling my kid I would complete for a month now. I made an Image Classifier using Keras from Scraped YouTube videos of Mario and Wario - Mario Kart game play.
+
+**Thoughts**:  This was a big project for me. I got stuck a few times with scraping videos instead of text from websites and turning the video into data I could test and train on a model. I finally have a good answer to the old interview question of "Tell us about a project that you had to overcome alot of adversities in completing"
+
+**Link to work**: https://github.com/HvyD/Mario-Vs.-Wario-Image-Classifier
