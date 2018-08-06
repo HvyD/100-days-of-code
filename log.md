@@ -268,3 +268,14 @@
 **Thoughts**:  This was a big project for me. I got stuck a few times with scraping videos instead of text from websites and turning the video into data I could test and train on a model. I finally have a good answer to the old interview question of "Tell us about a project that you had to overcome alot of adversities in completing"
 
 **Link to work**: https://github.com/HvyD/Mario-Vs.-Wario-Image-Classifier
+
+
+
+
+
+## Day 30: 
+**Today's Progress**: Today I had to change it up. I will be going Back to School for the FUNdamentals this next week. I will be working on Data Structures and Machine Learning Algorithms for an up coming technical interview.
+
+**Thoughts**:  Using advance technics and librarys I forgot how much the basics plays a major part.
+
+**Link to work**: https://github.com/HvyD?tab=repositories
