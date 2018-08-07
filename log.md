@@ -283,7 +283,10 @@
 
 
 
+
 ## Day 31: 
 **Today's Progress**: Today I continued my work on the FUNdamentals of data structures and ML Alogrithms.
+
 **Thoughts**:  I forgot about the "Magic" in coding. Revisiting the basics made me remember when I started coding and how it was all magic..
+
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
