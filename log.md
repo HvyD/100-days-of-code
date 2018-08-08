@@ -290,3 +290,22 @@
 **Thoughts**:  I forgot about the "Magic" in coding. Revisiting the basics made me remember when I started coding and how it was all magic..
 
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
+
+
+
+
+## Day 32: 
+**Today's Progress**: More work on the FUNdamentals of data structures and ML Alogrithms.
+
+**Thoughts**:  I am becoming more confident for this up comming technical interview...
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
+
+
+
+
+
+
+
