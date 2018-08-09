@@ -307,5 +307,14 @@
 
 
 
+## Day 33: 
+**Today's Progress**: More work on the FUNdamentals. I am wrapping up Unsupervised Learning and will be going onto Reinforcement Learning. 
+
+**Thoughts**:  I am still really enjoying the magic. Full transparency: I half expected this review to be painfully. Nothing but pleasure, so far. I must be a Geeks Geek... 
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
+
+
 
 
