@@ -317,4 +317,14 @@
 
 
 
+## Day 34: 
+**Today's Progress**: More work on the FUNdamentals with Reinforcement Learinig.
+
+**Thoughts**:  I think I will need to hang on to Reinforcement learning for awhile longer to grasp it better.
+
+**Link to work**: https://github.com/HvyD/100-days-of-code/blob/master/log.md
+
+
+
+
 
