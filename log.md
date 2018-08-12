@@ -327,4 +327,9 @@
 
 
 
+## Day 35: 
+**Today's Progress**: Wrapping up my one week a month of working on the FUNdamentals. I reread the incommplete works of Grokking Deep Learning by Andrew Trask.
 
+**Thoughts**:  Hopefully, Trask concludes his book with his great new contribution to Deep Learning of 'NALU'.
+
+**Link to work**: https://www.manning.com/books/grokking-deep-learning
