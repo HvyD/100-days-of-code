@@ -336,7 +336,7 @@
 
 
 
-## Day 35: 
+## Day 36: 
 **Today's Progress**: Today I added the NALU model to my Autonomous Training System so now it can indentify signs and other things on a drive or flight with the number of occurrences are added up for future data in determining best or shortest and safest routes/paths.
 
 **Thoughts**:  I was really stretched my brain on this today. Since the Brain is a muscle maybe I should take some supplements like protien and build brain mass.... 
