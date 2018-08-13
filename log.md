@@ -333,3 +333,12 @@
 **Thoughts**:  Hopefully, Trask concludes his book with his great new contribution to Deep Learning of 'NALU'.
 
 **Link to work**: https://www.manning.com/books/grokking-deep-learning
+
+
+
+## Day 35: 
+**Today's Progress**: Today I added the NALU model to my Autonomous Training System so now it can indentify signs and other things on a drive or flight with the number of occurrences are added up for future data in determining best or shortest and safest routes/paths.
+
+**Thoughts**:  I was really stretched my brain on this today. Since the Brain is a muscle maybe I should take some supplements like protien and build brain mass.... 
+
+**Link to work**: https://github.com/HvyD/Autonomous-Training-System
