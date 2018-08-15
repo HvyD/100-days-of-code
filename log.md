@@ -342,3 +342,12 @@
 **Thoughts**:  I was really stretched my brain on this today. Since the Brain is a muscle maybe I should take some supplements like protien and build brain mass.... 
 
 **Link to work**: https://github.com/HvyD/Autonomous-Training-System
+
+
+
+## Day 37: 
+**Today's Progress**: On vacation with the family at Legoland inspired me to make a Lego recognizer.
+
+**Thoughts**:  Very basic since Im vacationing but when I get home I plain to train it as CV not on basic ML models.
+
+**Link to work**: https://github.com/HvyD/Basic-Lego-Recognizer
