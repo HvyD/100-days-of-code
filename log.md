@@ -351,3 +351,13 @@
 **Thoughts**:  Very basic since Im vacationing but when I get home I plain to train it as CV not on basic ML models.
 
 **Link to work**: https://github.com/HvyD/Basic-Lego-Recognizer
+
+
+
+
+## Day 38: 
+**Today's Progress**: Wrapping up vacationing with the family at Legoland I started adding the CV component to the Lego recognizer I began building yesterday. I decided to use a Convolutional Neural Network model on the Lego brick dataset.
+
+**Thoughts**: Just added the code. I cant wait to get home and debug and train my model.
+
+**Link to work**: https://github.com/HvyD/Basic-Lego-Recognizer
