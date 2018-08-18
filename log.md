@@ -366,7 +366,7 @@
 
 
 ## Day 39: 
-**Today's Progress**:  This was one long and crappy day. I trained the Lego Recognizer Model on AWS since I was stuck at the airport due to flight delays and then cancellation. My model first overfitted on an embarrissing level, then I was only able to achieve about 60 percent efficiency. MY model only got 6 out 10 correct. 
+**Today's Progress**:  This was one long and crappy day. I trained the Lego Recognizer Model on AWS since I was stuck at the airport due to flight delays and then cancellation. My model first overfitted on an embarrassing level, then I was only able to achieve about 60 percent efficiency. MY model only got 6 out 10 correct. 
 **Thoughts**: Note to self... When on vacation no more coding...
 
 **Link to work**: https://github.com/HvyD/Basic-Lego-Recognizer
