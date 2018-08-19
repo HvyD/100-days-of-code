@@ -377,7 +377,7 @@
 
 
 ## Day 40: 
-**Today's Progress**: Today I tweeked on my Lego Recognizer and brought my efficiency up to 80 percent. 8 out of 10 correctly guessed. I also finally recieved and started reading Francios Chollet book "Deep Learning with Python" from Manning Publications.
+**Today's Progress**: Today I tweaked on my Lego Recognizer and brought my efficiency up to 80 percent. 8 out of 10 correctly guessed. I also finally received and started reading Francios Chollet book "Deep Learning with Python" from Manning Publications.
 
 **Thoughts**: I am excited to begin reading this new book.
 
