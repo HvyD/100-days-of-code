@@ -371,3 +371,14 @@
 **Thoughts**: Note to self... When on vacation no more coding...
 
 **Link to work**: https://github.com/HvyD/Basic-Lego-Recognizer
+
+
+
+
+
+## Day 40: 
+**Today's Progress**: Today I tweeked on my Lego Recognizer and brought my efficiency up to 80 percent. 8 out of 10 correctly guessed. I also finally recieved and started reading Francios Chollet book "Deep Learning with Python" from Manning Publications.
+
+**Thoughts**: I am excited to begin reading this new book.
+
+**Link to work**: https://www.manning.com/books/deep-learning-with-python
