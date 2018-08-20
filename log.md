@@ -393,4 +393,4 @@
 
 **Thoughts**: It was fun to revisit NLP.
 
-**Link to work**: https://github.com/HvyD/FAQ-Bot/blob/master/README.md
+**Link to work**: https://github.com/HvyD/FAQ-Bot
