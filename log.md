@@ -382,3 +382,15 @@
 **Thoughts**: I am excited to begin reading this new book.
 
 **Link to work**: https://www.manning.com/books/deep-learning-with-python
+
+
+
+
+
+
+## Day 41: 
+**Today's Progress**: I started building a NLP-FAQ Bot using Alaska Airlines FAQ Website. Due to while using the Airlines site chatbot I kept on having to go to the FAQ to recieve answers. I also continued reading "Deep Learning with Python".
+
+**Thoughts**: It was fun to revisit NLP.
+
+**Link to work**: https://github.com/HvyD/FAQ-Bot/blob/master/README.md
