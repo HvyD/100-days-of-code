@@ -398,6 +398,6 @@
 ## Day 42: 
 **Today's Progress**: I added a 4 layer Nueral Network Model using Keras to my FaqBot. 
 
-**Thoughts**: It was fun to revisit NLP.
+**Thoughts**: I learn some new and neat tools with Pandas today.
 
 **Link to work**: https://github.com/HvyD/FAQ-Bot
