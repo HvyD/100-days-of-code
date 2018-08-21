@@ -386,10 +386,17 @@
 
 
 
-
-
 ## Day 41: 
 **Today's Progress**: I started building a NLP-FAQ Bot using Alaska Airlines FAQ Website. Due to while using the Airlines site chatbot I kept on having to go to the FAQ to recieve answers. I also continued reading "Deep Learning with Python".
+
+**Thoughts**: It was fun to revisit NLP.
+
+**Link to work**: https://github.com/HvyD/FAQ-Bot
+
+
+
+## Day 42: 
+**Today's Progress**: I added a 4 layer Nueral Network Model using Keras to my FaqBot. 
 
 **Thoughts**: It was fun to revisit NLP.
 
