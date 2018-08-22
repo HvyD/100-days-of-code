@@ -401,3 +401,13 @@
 **Thoughts**: I learn some new and neat tools with Pandas today.
 
 **Link to work**: https://github.com/HvyD/FAQ-Bot
+
+
+
+## Day 43: 
+**Today's Progress**: I continued reading "Deep Learning with Python" and practiced some coding interview questions today.
+
+**Thoughts**: I am starting to see the effect of coding at least one hour a day.
+
+**Link to work**: https://www.manning.com/books/deep-learning-with-python
+
