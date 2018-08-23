@@ -411,3 +411,11 @@
 
 **Link to work**: https://www.manning.com/books/deep-learning-with-python
 
+
+## Day 44: https://campus.datacamp.com/courses/convolutional-neural-networks-for-image-processing/using-convolutions?ex=1
+**Today's Progress**: Today I worked on Convolutional neural networks for image processing from DataCamp.com
+and continued my readings.
+
+**Thoughts**: One-Hot-Encoding is pretty neat.
+
+**Link to work**: https://campus.datacamp.com/courses/convolutional-neural-networks-for-image-processing
