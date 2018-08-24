@@ -419,3 +419,13 @@ and continued my readings.
 **Thoughts**: One-Hot-Encoding is pretty neat.
 
 **Link to work**: https://campus.datacamp.com/courses/convolutional-neural-networks-for-image-processing
+
+
+
+
+## Day 45: 
+**Today's Progress**: Today I made a very Deep Convolutional neural network of a Cat and Dog Predictor using Keras on a Kaggle DataSet..
+
+**Thoughts**: Got some surprisingly accurate predictions.
+
+**Link to work**: https://github.com/HvyD/Deep-CNN-Cat-and-Dog-Predictor
