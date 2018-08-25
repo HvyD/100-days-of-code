@@ -77,6 +77,12 @@
 **Link to work**: https://github.com/HvyD/Generating-Metallica-style-music-with-a-LSTM
 
 
+## Day 46: 
+**Today's Progress**: I Wrapping up working on and studing Deep CNN. I got word that @iamtrask finished up his grokking-deep-learning. I am excited to finaly get my hads on the hard copy I preorder over a year ago.
+
+**Thoughts**: I learned about Callbacks Earley Stopping. I love this tool to fix overfitting.  
+
+**Link to work**: https://www.manning.com/books/grokking-deep-learning
 
 ## Day 9: 
 **Today's Progress**: Today I made a Movie Recommender System from Scratch to brush up on my math. I only used Numpy and Scipy for importation of the data files. On a less ML note I taught a youngster about Classes and Functions in Python using the Turtle library.
@@ -429,3 +435,14 @@ and continued my readings.
 **Thoughts**: Got some surprisingly accurate predictions.
 
 **Link to work**: https://github.com/HvyD/Deep-CNN-Cat-and-Dog-Predictor
+
+
+
+## Day 46: 
+**Today's Progress**: I wrapped up working on and studing Deep CNN. I got word that @iamtrask finished up his Grokking-Deep-Learning book. I am excited to finaly get my hads on the hard copy I preorder over a year ago.
+
+**Thoughts**: I really like the tool Callbacks_Earley_Stopping  
+
+**Link to work**: https://www.manning.com/books/grokking-deep-learning
+
+
