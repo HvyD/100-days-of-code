@@ -446,3 +446,10 @@ and continued my readings.
 **Link to work**: https://www.manning.com/books/grokking-deep-learning
 
 
+
+## Day 47: 
+**Today's Progress**: I made a best Pokemon finder using basic Machine learning and Data Analysis from a dataset found on Kaggle. I found KNN and Random Forest Models worked best.
+
+**Thoughts**: I am getting a hang of using Markdown on Github repository and Jupyter Notebook.
+
+**Link to work**: https://github.com/HvyD/BestPokemon
