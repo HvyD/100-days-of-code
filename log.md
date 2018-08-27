@@ -453,3 +453,13 @@ and continued my readings.
 **Thoughts**: I am getting a hang of using Markdown on Github repository and Jupyter Notebook.
 
 **Link to work**: https://github.com/HvyD/BestPokemon
+
+
+
+
+## Day 48: 
+**Today's Progress**: Today I made an Object Detection Classifier system using Keras.
+
+**Thoughts**: First time using multiple datasets.
+
+**Link to work**: https://github.com/HvyD/Object-Detection-Classifier
