@@ -463,3 +463,12 @@ and continued my readings.
 **Thoughts**: First time using multiple datasets.
 
 **Link to work**: https://github.com/HvyD/Object-Detection-Classifier
+
+
+
+## Day 49: 
+**Today's Progress**: Today I worked on image noise reduction using Keras. I trained my model on a dataset of Hand Written Letters.
+
+**Thoughts**: Keras is a powerfull library.
+
+**Link to work**: https://github.com/HvyD/Reducing-Image-Noise
