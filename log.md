@@ -472,3 +472,12 @@ and continued my readings.
 **Thoughts**: Keras is a powerfull library.
 
 **Link to work**: https://github.com/HvyD/Reducing-Image-Noise
+
+
+
+## Day 50: 
+**Today's Progress**: Today I added a CNN-Autoencoder to my noise reduction model.
+
+**Thoughts**: I really like the ease of being able to load the dataset and unpack it right to Test/Train using Keras all in one line of code.
+
+**Link to work**: https://github.com/HvyD/Reducing-Image-Noise
