@@ -481,3 +481,12 @@ and continued my readings.
 **Thoughts**: I really like the ease of being able to load the dataset and unpack it right to Test/Train using Keras all in one line of code.
 
 **Link to work**: https://github.com/HvyD/Reducing-Image-Noise
+
+
+
+## Day 51: 
+**Today's Progress**: I am circling back around to my monthly review of the fundamentals. I am trying out [Kaggle Learn](https://www.kaggle.com/learn) this time to add to my ever growing knowledge bank.
+
+**Thoughts**: I am really liking how Kaggle is all in Notebook Form both the tutorial and extensive hands on.
+
+**Link to work**: https://www.kaggle.com/learn
