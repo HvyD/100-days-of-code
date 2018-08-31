@@ -490,3 +490,10 @@ and continued my readings.
 **Thoughts**: I am really liking how Kaggle is all in Notebook For both the tutorial and extensive hands on.
 
 **Link to work**: https://www.kaggle.com/learn
+
+## Day 52: 
+**Today's Progress**: I continued working on my monthly review of the fundamentals using [Kaggle Learn](https://www.kaggle.com/learn). I completed the Python tutorial and almost knocked out the "Level One" - Machine Learning Module.
+
+**Thoughts**: I am really liking how Kaggle started out the Machine Learning Tutotrial at The Data. Most courses glaze over the whole loading and reading the data. Which I think is a great percent of good machine learning. You need to know anf control your data to have a suceessful model.
+
+**Link to work**: https://www.kaggle.com/learn
