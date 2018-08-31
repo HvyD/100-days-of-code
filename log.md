@@ -497,3 +497,11 @@ and continued my readings.
 **Thoughts**: I am really liking how Kaggle started out the Machine Learning Tutotrial at The Data. Most courses glaze over the whole loading and reading the data. Which I think is a great percent of good machine learning. You need to know anf control your data to have a suceessful model.
 
 **Link to work**: https://www.kaggle.com/learn
+
+
+## Day 53: 
+**Today's Progress**: Today I had planned to continue with my monthly review of the FUNdamentals but I got side track in showing my kid Generative Adversarial Networks by making a DCGAN's Model using Keras on the MNIST dataset.
+
+**Thoughts**: I am still real liking being able to load the dataset and unpack it right to Test/Train using Keras all in one line of code.
+
+**Link to work**: https://github.com/HvyD/DCGans-using-Keras-on-MNIST
