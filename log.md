@@ -505,3 +505,11 @@ and continued my readings.
 **Thoughts**: I am still real liking being able to load the dataset and unpack it right to Test/Train using Keras all in one line of code.
 
 **Link to work**: https://github.com/HvyD/DCGans-using-Keras-on-MNIST
+
+
+## Day 54: 
+**Today's Progress**: I was able to actaully continue my monthly review of the FUNdamentals. I went over basic CS and advance Algorithms.
+
+**Thoughts**: Finally totally have a good grasp on Big'O'Notation.
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
