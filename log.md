@@ -507,9 +507,19 @@ and continued my readings.
 **Link to work**: https://github.com/HvyD/DCGans-using-Keras-on-MNIST
 
 
+
 ## Day 54: 
 **Today's Progress**: I was able to actaully continue my monthly review of the FUNdamentals. I went over basic CS and advance Algorithms.
 
 **Thoughts**: Finally totally have a good grasp on Big'O'Notation.
 
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
+
+
+## Day 55: 
+**Today's Progress**: Once again I have been side tracked from my studies due to a having a few earthquakes in my part of the world. So I made basic 3 layer earthquake predictor model using tensorflow.
+
+**Thoughts**: Grumpy I keep doing other projects and not studing my fundamentals needing to land a big company gig.
+
+**Link to work**: https://github.com/HvyD/EarthQuake-Predictor
