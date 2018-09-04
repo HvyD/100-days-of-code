@@ -523,3 +523,12 @@ and continued my readings.
 **Thoughts**: Grumpy I keep doing other projects and not studing my fundamentals needing to land a big company gig.
 
 **Link to work**: https://github.com/HvyD/EarthQuake-Predictor
+
+
+## Day 56: 
+**Today's Progress**: I fine tuned and tweaked my EarthQuake predictor. It now able to predict the last earthquake we had that is not in the dataset yet. Once I add USGS newest data I should be able to predict the next earthquakes magnetude of a specific location.
+
+**Thoughts**: The human spirit still amazes me. What can be accomplished from the weirdest motivations.
+
+**Link to work**: https://github.com/HvyD/EarthQuake-Predictor
+
