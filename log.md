@@ -532,3 +532,11 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/EarthQuake-Predictor
 
+
+## Day 57: 
+**Today's Progress**: I was able to wrap up my monthly review of the FUNdamentals to help improve my Technical Interview Skills.
+
+**Thoughts**: Still frustrated companies test on CS and not on the actual job description like ML or AI. I guess I understand not being dependent on Stacks or Manuals like a baby and its pacifier. 
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
