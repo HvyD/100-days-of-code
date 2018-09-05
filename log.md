@@ -540,3 +540,11 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
 
+
+## Day 58: 
+**Today's Progress**: I spent the day solving interview question's of Data Structures and Algorithms for practice since companies seem to test more on basic CS than advance ML/DL algorithms.  .
+
+**Thoughts**: I really getting a grasp of some basic Data Structures and Algorithms.
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
