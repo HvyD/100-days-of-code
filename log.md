@@ -548,3 +548,11 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
 
+
+## Day 59: 
+**Today's Progress**: Today I continued solving interview question's of Data Structures and Algorithms for practice of an up coming Technical Interview.
+
+**Thoughts**: DataStructures and Algorithm seem to be changing the way I think and see things.
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
