@@ -556,3 +556,12 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
 
+
+
+## Day 60: 
+**Today's Progress**: Today  I continued to work on CS Data Structures and Algorithms for interview practice and I tweaked on my Malicious URL Detector by adding a second hidden layer so now my prediction efficiency is up to %97.
+
+**Thoughts**: Revisiting CS using Python instead of Java after 10 years from graduating college makes alot more sense this time around.
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
