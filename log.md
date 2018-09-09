@@ -575,3 +575,13 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/Diabetes-Predictor
 
+
+
+
+## Day 62: 
+**Today's Progress**: Today I got out of bed with my back out, due to the way I was laying all night studing for a big interview. So I decided to make a Back Pain Abnormality Analyzer using a DataSet I found on Kaggle. I built my own Neural Network from scratch and used it against a Logistic Regression Model. I then compared my two models from scratch to SciKit-Learns and am very happy I recieved comparable results.
+
+**Thoughts**: The only this those young kids in my industry dont got on me is they have not expereince back true back pain.
+
+**Link to work**: https://github.com/HvyD/Back-Pain-Analyzer
+
