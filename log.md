@@ -565,3 +565,16 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
 
+
+
+
+## Day 61: 
+**Today's Progress**: I am still studing and practicing for a big Technical interview coming up so today along with my studies I made a Diabetes Predictor that I applied a Radom Forest Classifier, Logistic Regression and KNN to.
+
+**Thoughts**: I am seeing the difference in my coding style now since I have been reviewing Data Structures and Algorithms usung python.
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
+
+https://github.com/HvyD/Diabetes-Predictor
+
