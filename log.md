@@ -573,8 +573,5 @@ and continued my readings.
 
 **Thoughts**: I am seeing the difference in my coding style now since I have been reviewing Data Structures and Algorithms usung python.
 
-**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
-
-
-https://github.com/HvyD/Diabetes-Predictor
+**Link to work**: https://github.com/HvyD/Diabetes-Predictor
 
