@@ -594,3 +594,12 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/Back-Pain-Analyzer
 
+
+## Day 64: 
+**Today's Progress**: I started #SirajRaval #SchoolofAi #Move37course and worked on Trees and Graphs for a up coming technical interview.
+
+**Thoughts**: Reinforcement Learning Markov seems like how a raise my kid with reward systems...
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
+
