@@ -585,3 +585,12 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/Back-Pain-Analyzer
 
+
+
+## Day 63: 
+**Today's Progress**: Since I am an old guy my back is still achy. So today not only did I stretch and make *hysical adustments to my body I also made adjustments to my weights ands bias's fine tuning the Back Pain Analyzer I made yesterday.
+
+**Thoughts**: Funny how real life can be parallel work and studies.
+
+**Link to work**: https://github.com/HvyD/Back-Pain-Analyzer
+
