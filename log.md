@@ -603,3 +603,12 @@ and continued my readings.
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
 
 
+
+## Day 65: 
+**Today's Progress**: I finished up #SirajRaval #SchoolOfAi week one and started white boarding solutions for technical interview questions.
+
+**Thoughts**: I write like a Doctor... meaning my hand writting is terrible at best.
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
+
