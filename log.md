@@ -612,3 +612,12 @@ and continued my readings.
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
 
 
+
+
+
+## Day 66: 
+**Today's Progress**: Today I had a technical phone screen with a farely big name APP company. My code was great but I seem to have miised the the problem point and wrote code for my own problem. I was also able to work on multiple image detector using FastAi.
+
+**Thoughts**: Lesson learned today is to slow down and talk and ask a lot of questions befor laying some sode down.
+
+**Link to work**: https://github.com/HvyD/Multi-Object-Detection
