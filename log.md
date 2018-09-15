@@ -621,3 +621,14 @@ and continued my readings.
 **Thoughts**: Lesson learned today is to slow down and talk and ask a lot of questions befor laying some sode down.
 
 **Link to work**: https://github.com/HvyD/Multi-Object-Detection
+
+
+
+
+
+## Day 67: 
+**Today's Progress**: Today I implementated the DeepDream Convnets filter-visualization with Keras which was discussed in the book Deep Learning with Python by Franois Chollet
+
+**Thoughts**: Had two move my work onto AWS today. The old rig just not that reliable anymore. 
+
+**Link to work**: https://github.com/HvyD/Python-DayDreaming
