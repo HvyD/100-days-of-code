@@ -632,3 +632,14 @@ and continued my readings.
 **Thoughts**: Had two move my work onto AWS today. The old rig just not that reliable anymore. 
 
 **Link to work**: https://github.com/HvyD/Python-DayDreaming
+
+
+
+
+
+## Day 68: 
+**Today's Progress**: Today I made a Jay Walker detector using OpenCV with a Hog Model.
+
+**Thoughts**: Really like OpenCv easy of use on a CPU.
+
+**Link to work**: https://github.com/HvyD/Jay-Walker-Detector
