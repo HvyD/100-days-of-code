@@ -638,7 +638,7 @@ and continued my readings.
 
 
 ## Day 68: 
-**Today's Progress**: Today I made a Jay Walker detector using OpenCV with a Hog Model.
+**Today's Progress**: Today I made a Jay Walker detector using OpenCV with a histogram of oriented gradients(HOG) Model.
 
 **Thoughts**: Really like OpenCv easy of use on a CPU.
 
