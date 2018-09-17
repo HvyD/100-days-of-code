@@ -635,11 +635,19 @@ and continued my readings.
 
 
 
-
-
 ## Day 68: 
 **Today's Progress**: Today I made a Jay Walker detector using OpenCV with a histogram of oriented gradients(HOG) Model.
 
 **Thoughts**: Really like OpenCv easy of use on a CPU.
 
 **Link to work**: https://github.com/HvyD/Jay-Walker-Detector
+
+
+
+## Day 69: 
+**Today's Progress**: I tweaked my detector project learning more OpenCV functions. I also pratice on more Data Structure and Algorithm Technical Interview questions.
+
+**Thoughts**: I tired being a Solo practitioner and ready to join a team... 
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
