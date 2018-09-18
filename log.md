@@ -661,3 +661,12 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/Siraj-Ravel-s-Reinforcement-Learning-Move37-https-www.theschool.ai-courses-move-37-course-
 
+
+
+
+## Day 71: 
+**Today's Progress**: Today got tired of waiting for a new installment of Harry Potter and the Wizarding world so I made a Harry Potter Book Text Generator using a RNN with LSTM cells.
+
+**Thoughts**: Funny Ouput.
+
+**Link to work**: https://github.com/HvyD/Harry-Potter-Book-Text-Generator
