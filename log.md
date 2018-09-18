@@ -656,6 +656,7 @@ and continued my readings.
 
 ## Day 70: 
 **Today's Progress**: Today I coded both Value and Policy iterations in an OpenAi enviroment for #SirajRavel #Move37 RL courses.
+
 **Thoughts**: Pretty Neat interactions 
 
 **Link to work**: https://github.com/HvyD/Siraj-Ravel-s-Reinforcement-Learning-Move37-https-www.theschool.ai-courses-move-37-course-
