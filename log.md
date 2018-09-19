@@ -670,3 +670,13 @@ and continued my readings.
 **Thoughts**: Funny Ouput.
 
 **Link to work**: https://github.com/HvyD/Harry-Potter-Book-Text-Generator
+
+
+
+
+## Day 72: 
+**Today's Progress**: I worked on optimizing the Book Text Generator using Adam instead of regular stochastic gradient descent. I am also still hitting the "Books" (figuratively not literally.. I learn better through videos and hands on) so I can pass these technical interviews and work with a team. 
+
+**Thoughts**: I'm Hustling, everday... -Rick Ross
+
+**Link to work**: https://github.com/HvyD/Harry-Potter-Book-Text-Generator
