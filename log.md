@@ -680,3 +680,14 @@ and continued my readings.
 **Thoughts**: I'm Hustling, everday... -Rick Ross
 
 **Link to work**: https://github.com/HvyD/Harry-Potter-Book-Text-Generator
+
+
+
+
+
+## Day 73: 
+**Today's Progress**: Today I worked on some more RNN's with LSTM's by making a stock price predictor.
+
+**Thoughts**: I think I may have found a lucrative side huslte...
+
+**Link to work**: https://github.com/HvyD/RNN-Stock-Price-Predictor
