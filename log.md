@@ -691,3 +691,13 @@ and continued my readings.
 **Thoughts**: I think I may have found a lucrative side huslte...
 
 **Link to work**: https://github.com/HvyD/RNN-Stock-Price-Predictor
+
+
+
+
+## Day 74: 
+**Today's Progress**: Today I finished working on some RNN's by experimenting with GRU versus LSTM. 
+**Thoughts**: LSTM seems to be more effecient but slower.
+
+**Link to work**: https://github.com/HvyD/RNN-Stock-Price-Predictor
+
