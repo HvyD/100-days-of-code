@@ -701,3 +701,11 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/RNN-Stock-Price-Predictor
 
+
+
+## Day 75: 
+**Today's Progress**: One last round of RNN's today, by creating a digit recognizer using Pytorch.
+**Thoughts**: Timme to move on to next ML/DL Algorithm.
+
+**Link to work**: https://github.com/HvyD/Number-recognizer-RNN-using-Pytorch
+
