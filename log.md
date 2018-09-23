@@ -709,3 +709,11 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/Number-recognizer-RNN-using-Pytorch
 
+
+
+
+## Day 76: 
+**Today's Progress**: I dug up my old Doom agent I had built a year ago that already had DQN and added Policy and Value iteration from what I learned from #SirajRaval #Move37 course. As expected the DQN still is the best for such environments.  
+**Thoughts**: Im may have to get distracted and fire up my old PC game or purchase the Nintendo Switch version of Doom.
+
+**Link to work**: https://github.com/HvyD/Doom-player-Agent-Reinforcement-Learning
