@@ -717,3 +717,12 @@ and continued my readings.
 **Thoughts**: Im may have to get distracted and fire up my old PC game or purchase the Nintendo Switch version of Doom.
 
 **Link to work**: https://github.com/HvyD/Doom-player-Agent-Reinforcement-Learning
+
+
+
+## Day 77: 
+**Today's Progress**: I completed week 3 of#SirajRaval #Move37 course of implementing a Montge Carlo Method in a #OpenaiGym environment. I also published my work on Medium.
+
+**Thoughts**: Frustrated I could not embed a code snippet. 
+
+**Link to work**: https://github.com/HvyD/Siraj-Ravel-s-Reinforcement-Learning-Move37-https-www.theschool.ai-courses-move-37-course-
