@@ -726,3 +726,12 @@ and continued my readings.
 **Thoughts**: Frustrated I could not embed a code snippet. 
 
 **Link to work**: https://github.com/HvyD/Siraj-Ravel-s-Reinforcement-Learning-Move37-https-www.theschool.ai-courses-move-37-course-
+
+
+
+## Day 78: 
+**Today's Progress**: I used a Markov Chain Model to generate Music Lyrics from Metallica Lyrics Scraped from the web.
+
+**Thoughts**: Great day coding. I figured out yesterdays Git to Medium code snippet issue and without sesrching I was able to read a text file into a pandas DataFrame to make a WorldCloud. 
+
+**Link to work**: https://github.com/HvyD/Markov-Chain-Lyric-Generator
