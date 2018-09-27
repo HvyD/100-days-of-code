@@ -705,11 +705,10 @@ and continued my readings.
 
 ## Day 75: 
 **Today's Progress**: One last round of RNN's today, by creating a digit recognizer using Pytorch.
+
 **Thoughts**: Timme to move on to next ML/DL Algorithm.
 
 **Link to work**: https://github.com/HvyD/Number-recognizer-RNN-using-Pytorch
-
-
 
 
 ## Day 76: 
@@ -735,3 +734,12 @@ and continued my readings.
 **Thoughts**: Great day coding. I figured out yesterdays Git to Medium code snippet issue and without sesrching I was able to read a text file into a pandas DataFrame to make a WorldCloud. 
 
 **Link to work**: https://github.com/HvyD/Markov-Chain-Lyric-Generator
+
+
+
+## Day 79: 
+**Today's Progress**: Today I worked on more Markov Processes learning about Hidden Models (HMM). I also continued solving technical interview question in preparation to hopefully a full time gig.
+
+**Thoughts**: I tired being a Solo practitioner and ready to join a team... 
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
