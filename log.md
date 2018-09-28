@@ -743,3 +743,14 @@ and continued my readings.
 **Thoughts**: I tired being a Solo practitioner and ready to join a team... 
 
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
+
+
+
+
+## Day 80: 
+**Today's Progress**: In the spirit of Halloween coming up I made a fun Ghouls,Goblins and Ghost Predictor from a Dataset I found on Kaggle using a basic Decision Tree Model on both the Training and Test sets.
+
+**Thoughts**: Im getting excited felling the change in the season, which motivates me to find unique and possible odd projects to work on.
+
+**Link to work**: https://github.com/HvyD/Kaggle----Ghouls-Goblins-and-Ghosts...-Boo-
