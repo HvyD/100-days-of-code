@@ -754,3 +754,12 @@ and continued my readings.
 **Thoughts**: Im getting excited feeling the change in the season, which motivates me to find unique and possible odd projects to work on.
 
 **Link to work**: https://github.com/HvyD/Kaggle----Ghouls-Goblins-and-Ghosts...-Boo-
+
+
+
+## Day 81: 
+**Today's Progress**: After watching #SirajRaval new youtube on #TPU I was inspired to try RL algorithms using TensorFlow. I was able to build a Hidden Markov Model and learned about applying it in a Viterbi path.
+
+**Thoughts**: It took me awhile in seeing the matrices but once I fully visualized it I was able to achieve.
+
+**Link to work**: https://github.com/HvyD/RL-with-Tensorflow
