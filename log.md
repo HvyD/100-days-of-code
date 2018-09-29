@@ -763,3 +763,12 @@ and continued my readings.
 **Thoughts**: It took me awhile in seeing the matrices but once I fully visualized it I was able to achieve.
 
 **Link to work**: https://github.com/HvyD/RL-with-Tensorflow
+
+
+
+## Day 82: 
+**Today's Progress**: Today I read a Draft of Andrew Ng new book titled [Machine Learning Yearning.](https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/5dd91615-3b3f-4f5d-bbfb-4ebd8608d330/Ng_MLY01_13.pdf) I also worked on some Data Structures and Algorithms problems. 
+
+**Thoughts**: Another great piece of work by Andrew Ng. Great Compliment to his Deep Learning.Ai course.....
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
