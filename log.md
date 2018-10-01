@@ -773,3 +773,12 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
 
+
+
+
+## Day 83: 
+**Today's Progress**: Today I worked on some more Hidden Markov Models by using HMMLearn to build a stock price predictor using Tesla stocks since they have been in the news lately. Later I will try add it to a model using current events for a closer realtime prediction.
+
+**Thoughts**: Not much of a predictor.. I think I need to figure out how to add current events
+
+**Link to work**: https://github.com/HvyD/HMM-Stock-Predictor
