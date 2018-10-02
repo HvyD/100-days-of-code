@@ -791,3 +791,11 @@ and continued my readings.
 **Thoughts**: I amazed how accurate the detector is. 
 
 **Link to work**: https://github.com/HvyD/Face-Emotion-Detector
+
+
+## Day 85: 
+**Today's Progress**: Today to lighten up my mood while wrapping up the emotional facial detector I played with adding sunglasses and blurring the faces. Plus in my existential plight to get picked up with a team I completed some more Data Structures and Algorithms for and interview  this Friday. 
+
+**Thoughts**: Siraj said it will be a existential quest in getting hired. to say the least I feel him...
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
