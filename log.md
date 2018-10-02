@@ -782,3 +782,12 @@ and continued my readings.
 **Thoughts**: Not much of a predictor.. I think I need to figure out how to add current events
 
 **Link to work**: https://github.com/HvyD/HMM-Stock-Predictor
+
+
+
+## Day 84: 
+**Today's Progress**: Today I made a Facial Emotion Detector using OpenCV HaarCascade Algorithm for fun with my daughter.
+
+**Thoughts**: I amazed how accurate the detector is. 
+
+**Link to work**: https://github.com/HvyD/Face-Emotion-Detector
