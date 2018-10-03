@@ -799,3 +799,13 @@ and continued my readings.
 **Thoughts**: Siraj said it will be a existential quest in getting hired. to say the least I feel him...
 
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
+
+
+## Day 85: 
+**Today's Progress**: I worked on Sentiment Analysis of current events, so I can add it to my HMM Stock Predictor for a more efficiant Probality of accuracy. And Of course still hustling on the Data Structure and Algorithms.
+
+**Thoughts**: Feeling the crunch down to the gametime (interview).  
+
+**Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
+
