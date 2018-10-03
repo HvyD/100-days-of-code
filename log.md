@@ -802,7 +802,7 @@ and continued my readings.
 
 
 
-## Day 85: 
+## Day 86: 
 **Today's Progress**: I worked on Sentiment Analysis of current events, so I can add it to my HMM Stock Predictor for a more efficiant Probality of accuracy. And Of course still hustling on the Data Structure and Algorithms.
 
 **Thoughts**: Feeling the crunch down to the gametime (interview).  
