@@ -809,3 +809,15 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/CS-Data-Structures-and-Algorithms
 
+
+
+
+## Day 87: 
+**Today's Progress**: I completed week 4 of #SirajRaval #Move37 course Homwork of implementing Q-learning from scratch in a gridworld environment.
+
+**Thoughts**: Fun little assignment. Not to many issues. The code flowed smoothly. I saw and applied my new data structures knowledge catching stupud errors before they where thrown.
+
+**Link to work**: https://github.com/HvyD/Siraj-Ravels-Reinforcement-Learning-Move37-Course
+
+
+
