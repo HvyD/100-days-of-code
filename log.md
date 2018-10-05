@@ -821,3 +821,10 @@ and continued my readings.
 
 
 
+
+## Day 88: 
+**Today's Progress**: I worked on NLP with Voice User Interface as I updated my Amazon Alexa Skill.
+
+**Thoughts**: Long Day. I had a coding interview it blew me out of the water. 
+
+**Link to work**: https://github.com/HvyD/Amazon_Alex_Skills--HvyDs_Computer_Facts
