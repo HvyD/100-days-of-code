@@ -828,3 +828,13 @@ and continued my readings.
 **Thoughts**: Long Day. I had a coding interview it blew me out of the water. 
 
 **Link to work**: https://github.com/HvyD/Amazon_Alex_Skills--HvyDs_Computer_Facts
+
+
+
+
+## Day 88: 
+**Today's Progress**: Today I implemented a GAN's generating ANIME faces using Keras.
+
+**Thoughts**: My mind is still recovering from the coding interview. Note to self( stop beatting your self up. If its meant to be it is meant to be) Had fun making this one for my child. I have been able to get into Anime. More of an American  Saturday Morning Cartoon guy. 
+
+**Link to work**: https://github.com/HvyD/ANIME-GANS
