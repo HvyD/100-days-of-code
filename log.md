@@ -832,7 +832,7 @@ and continued my readings.
 
 
 
-## Day 88: 
+## Day 89: 
 **Today's Progress**: Today I implemented a GAN's generating ANIME faces using Keras.
 
 **Thoughts**: My mind is still recovering from the coding interview. Note to self( stop beatting your self up. If its meant to be it is meant to be) Had fun making this one for my child. I have been able to get into Anime. More of an American  Saturday Morning Cartoon guy. 
