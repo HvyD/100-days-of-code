@@ -848,3 +848,11 @@ and continued my readings.
 **Thoughts**: Nice mellow day wacthing my Models run. I ran it on my old gen. i5 instead of dropping money or any credits on AWS.
 
 **Link to work**: https://github.com/HvyD/ANIME-GANS
+
+
+## Day 91: 
+**Today's Progress**: While at my local library looking at books for my child I ran across "TensorFlow for Dummies". I couldn't resist like a slowing down and looking at an accident. To my amazement the content went really deep. It went into perceptrons and exampled models from Squeezenet to ACGANS. I successfully implemented a few of the Models myself out of curiousity, due to the way the authur stacked his code. 
+
+**Thoughts**: Sometimes the weirdest things pop up at you in lifw when your not looking for them.
+
+**Link to work**: https://www.dummies.com/store/product/TensorFlow-For-Dummies.productCd-1119466210,navId-322481,descCd-description.html
