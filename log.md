@@ -838,3 +838,13 @@ and continued my readings.
 **Thoughts**: My mind is still recovering from the coding interview. Note to self( stop beatting your self up. If its meant to be it is meant to be) Had fun making this one for my child. I have been able to get into Anime. More of an American  Saturday Morning Cartoon guy. 
 
 **Link to work**: https://github.com/HvyD/ANIME-GANS
+
+
+
+
+## Day 90: 
+**Today's Progress**: I finished running and de-bugging the Anime GAN's model I implemented yesterday. I also re-read GoodFellows paper on GAN's to fully grasp my model. 
+
+**Thoughts**: Nice mellow day wacthing my Models run. I ran it on my old gen. i5 instead of dropping money or any credits on AWS.
+
+**Link to work**: https://github.com/HvyD/ANIME-GANS
