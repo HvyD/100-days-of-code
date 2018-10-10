@@ -856,3 +856,14 @@ and continued my readings.
 **Thoughts**: Sometimes the weirdest things pop up at you in lifw when your not looking for them.
 
 **Link to work**: https://www.dummies.com/store/product/TensorFlow-For-Dummies.productCd-1119466210,navId-322481,descCd-description.html
+
+
+
+
+## Day 92: 
+**Today's Progress**: I'm working on week5 of #SirajRaval #Move37 course midterm project of 'Making a Bipedal Robot walk'.
+
+**Thoughts**: very excited to work on advance Ai. 
+
+**Link to work**: https://github.com/HvyD/Siraj-Ravels-Reinforcement-Learning-Move37-Course
+
