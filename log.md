@@ -879,3 +879,16 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/Taking-a-Walk-with-a-BiPedal-Humanoid
 
+
+## Day 94: 
+**Today's Progress**: I have finally completed training and Visualizing week5 of #SirajRaval #Move37 Midterm Assignment(Make a Bipedal Robot Walk). I used a Deep Q Network obtaining average results.
+
+**Thoughts**: What a week. As challenging as is was I had an extreme lots of fun attempting this.
+
+**Link to work**: https://github.com/HvyD/Siraj-Ravels-Reinforcement-Learning-Move37-Course
+
+
+
+
+
+
