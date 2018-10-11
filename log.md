@@ -867,3 +867,15 @@ and continued my readings.
 
 **Link to work**: https://github.com/HvyD/Siraj-Ravels-Reinforcement-Learning-Move37-Course
 
+
+
+
+
+
+## Day 93: 
+**Today's Progress**: I'm still working on week5 of #SirajRaval #Move37 course midterm project of 'Making a Bipedal Robot walk'. But running into issues rendering the environment on a AWS instance.
+
+**Thoughts**: AWS is fucking frustrating me tonight. From getting a Notebook running to this rendering issue. 
+
+**Link to work**: https://github.com/HvyD/Taking-a-Walk-with-a-BiPedal-Humanoid
+
