@@ -890,5 +890,9 @@ and continued my readings.
 
 
 
+## Day 94: 
+**Today's Progress**: I worked on some NLP by scraping #100DaysOfMLCode off Twitter and applying very basic sentiment analysis to determine how many positive tweets versus negative.
 
+**Thoughts**: Fun little break for my brain from  doing intensive Reinforcemnt Learning, and my computer thanks me too...
 
+**Link to work**: https://github.com/HvyD/Sentiment-Analysis-of-100DaysOfMLCode
