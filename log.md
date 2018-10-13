@@ -871,7 +871,6 @@ and continued my readings.
 
 
 
-
 ## Day 93: 
 **Today's Progress**: I'm still working on week5 of #SirajRaval #Move37 course midterm project of 'Making a Bipedal Robot walk'. But running into issues rendering the environment on a AWS instance.
 
@@ -896,3 +895,14 @@ and continued my readings.
 **Thoughts**: Fun little break for my brain from  doing intensive Reinforcemnt Learning, and my computer thanks me too...
 
 **Link to work**: https://github.com/HvyD/Sentiment-Analysis-of-100DaysOfMLCode
+
+
+
+## Day 96: 
+**Today's Progress**: I completed the NLP sentiment analysis of Hashtag 100DaysOfMLCode by implementing a Hidden Markov Model using the Viteri algorithm.
+
+**Thoughts**: Had fun tooling some Python Data Structures with this one.
+
+**Link to work**: https://github.com/HvyD/Sentiment-Analysis-of-100DaysOfMLCode
+
+
