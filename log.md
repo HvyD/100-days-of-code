@@ -906,3 +906,12 @@ and continued my readings.
 **Link to work**: https://github.com/HvyD/Sentiment-Analysis-of-100DaysOfMLCode
 
 
+
+
+
+## Day 97: 
+**Today's Progress**: While waiting for a big dataset to download for my finale, I worked on Probalilty Thoery applying the Bayesian Rule to a casino slot machine. 
+
+**Thoughts**: Had fun using f'print and tooling markdown to accept my Math.
+
+**Link to work**: https://github.com/HvyD/Bayesian-Rule-on-Slot-Machines
