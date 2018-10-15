@@ -915,3 +915,13 @@ and continued my readings.
 **Thoughts**: Had fun using f'print and tooling markdown to accept my Math.
 
 **Link to work**: https://github.com/HvyD/Bayesian-Rule-on-Slot-Machines
+
+
+
+
+## Day 98: 
+**Today's Progress**: I worked on Dataset Exploration and Feauture Extraction Engineering on an Urban Sound Classifier and Predictor, that when done should take an audio feed and determine if its hearing certain street(urban) sounds. i.e. gunshots, AC, jackhammers and sirens..... 
+
+**Thoughts**: Audiovis its own beast. Alot different than words or video..
+
+**Link to work**: https://github.com/HvyD/Audio-Classifier-and-Predictor
