@@ -922,6 +922,16 @@ and continued my readings.
 ## Day 98: 
 **Today's Progress**: I worked on Dataset Exploration and Feauture Extraction Engineering on an Urban Sound Classifier and Predictor, that when done should take an audio feed and determine if its hearing certain street(urban) sounds. i.e. gunshots, AC, jackhammers and sirens..... 
 
-**Thoughts**: Audiovis its own beast. Alot different than words or video..
+**Thoughts**: Audio is its own beast. Alot different than words or video..
+
+**Link to work**: https://github.com/HvyD/Audio-Classifier-and-Predictor
+
+
+
+
+## Day 99: 
+**Today's Progress**: I split the Street(Urban) Sound Classifier and Predictor dataset into training/test labels and feautures and ran it through a Deep CNN Model using Keras tp preppare it for the prediction pipeline.
+
+**Thoughts**: Had issues with tupples of all things because of depreciated Librosa
 
 **Link to work**: https://github.com/HvyD/Audio-Classifier-and-Predictor
