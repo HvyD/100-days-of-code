@@ -935,3 +935,10 @@ and continued my readings.
 **Thoughts**: Had issues with tupples of all things because of depreciated Librosa
 
 **Link to work**: https://github.com/HvyD/Audio-Classifier-and-Predictor
+
+
+## Day 100: 
+**Today's Progress**: I completed the Street(Urban) Sound Classifier and Predictor by adding the last piece of the puzzle, the prediction pipline. I my model is obtaining approximately %94 accuracy predicting what sound it is hearing.
+**Thoughts**: What a ride.... shit... 100 days... 
+
+**Link to work**: https://github.com/HvyD/Audio-Classifier-and-Predictor
